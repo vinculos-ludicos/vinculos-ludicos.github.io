@@ -1,0 +1,111 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Juego de preguntas</title>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.all.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  
+  <body>
+    <style>
+      * {
+        transition: all 0.3s;
+      }
+  
+      body {
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        font-family: calibri;
+        font-size: 120%;
+      }
+  
+      .contenedor {
+        width: 98vw;
+        height: 97vh;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      
+      }
+  
+      .encabezado {
+        position: relative;
+        background: rgb(0, 0, 0);
+        min-width: 300px;
+        width: 70%;
+        max-width: 600px;
+        padding: 10px;
+        color:white;
+        font-size: 150%;
+        
+      }
+  
+      .categoria {
+        opacity: 0.3;
+        text-align: left;
+      }
+  
+      .pregunta {
+        padding: 10px;
+      }
+  
+      .imagen {
+        object-fit: cover;
+        height: 0px;
+        width: 0px;
+      }
+  
+      .btn {
+        background: rgb(24, 202, 24);
+        width: 60%;
+        min-width: 250px;
+        max-width: 550px;
+        padding: 10px;
+        margin: 5px;
+        cursor: pointer;
+        font-size:120%;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 700;
+      }
+  
+      .btn:hover {
+        transform: scale(1.05);
+      }
+      
+      .numero{
+        position: absolute;
+        opacity:0.7;
+        top: 10px;
+        right: 10px;
+        color:rgb(0, 0, 0);
+      }
+      
+      .puntaje{
+        padding:10px;
+        color:white;
+      }
+    </style>
+  
+    <div class="contenedor">
+      <div class="puntaje" id="puntaje"></div>
+      <div class="encabezado">
+        <div class="categoria" id="categoria">
+        </div>
+        <div class="numero" id="numero"></div>
+        <div class="pregunta" id="pregunta"></div>
+        <!--audio controls autoplay>
+          <source src="" class="imagen" id="imagen"> 
+        </audio>
+        <img src="#" class="imagen" id="imagen"-->
+
+      </div>
+      <div>
+        <button class="btn" onclick="tirarDados()">Ir a lanzar Dados</button>
+      </div>
+      
+      <script src="prendatres.js"></script>
+    </div>
+  
+  </body></html>

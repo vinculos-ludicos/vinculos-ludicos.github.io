@@ -1,0 +1,24 @@
+[
+    {
+        "categoria": "",
+        "pregunta": "dif 2",
+        "respuesta": " ",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": "",
+        "imagen": "./1.mp3",
+        "objectFit": "cover"
+    },
+    
+    
+
+
+    {
+        "categoria": "",
+        "pregunta": "difi 2",
+        "respuesta": " ",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": ""
+    }
+]
