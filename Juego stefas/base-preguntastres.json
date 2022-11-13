@@ -1,0 +1,37 @@
+[
+    {
+        "categoria": "",
+        "pregunta": "¡AL COLOR POR FAVOR!:<br><br>Debes relatar historias de tu vida, podes inventar, en donde se mencionen estos colores (azul, rojo, amarillo, naranja, celeste y verde), como por ejemplo: hoy me puse un pantalón azul. Cuando digas algún color, los demás jugadores tienen que tocar ese color. No vale el chaleco. El primero que lo toque puede avanzar 3 lugares.",
+        "respuesta": " ",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": "",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "",
+        "pregunta": "Cuento con los invitados: <br><br>Inventar y narrar un cuento, donde intervengan al menos tres de los jugadores. Puede ser la variación de un cuento popular.",
+        "respuesta": " ",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "",
+        "pregunta": "El radio humano:<br><br>El jugador, se ha convertido en un radio humano. Tiene en su cuerpo botones y perillas que lo hacen funcionar. Dentro de sus capacidades está: dar noticias, emitir programas deportivos, música y algo de humor. Cada jugador irá tocando a este radio humano en la perilla o el botón selector de estaciones y le dirá qué le gustaría escuchar: si música, noticias, etc. (Las perillas son los botones de los casilleros del chaleco).",
+        "respuesta": " ",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": ""
+    },
+    
+    {
+        "categoria": "",
+        "pregunta": "Instructor(a) de gimnasio:<br><br>Pensar en al menos 2 ejercicios y enseñárselos a los demás jugadores. Tú también debes hacer los ejercicios, con 3 repeticiones cada uno.",
+        "respuesta": " ",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": ""
+    }
+]
