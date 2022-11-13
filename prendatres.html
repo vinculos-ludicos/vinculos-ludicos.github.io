@@ -7,20 +7,37 @@
   </head>
   
   <body>
+    <header>
+      <div id="inicio">
+        <a title="Inicio" href="./index.html"><img src="./inicio.png" alt="Salir" width="50vw" /></a>
+        <a title="Inicio" href="./juegouno.html"><img src="./SALIR.png" alt="Inicio" width="50vw" /></a>
+    </div>
+    </header>
+
     <style>
       * {
         transition: all 0.3s;
       }
   
       body {
+        
         padding: 0;
         margin: 0;
         text-align: center;
         font-family: calibri;
         font-size: 120%;
       }
+      body header div {
+        height: 8vh
+      }
+      body header div img{
+
+        height: 8vh;
+        width: auto;
+      }
   
       .contenedor {
+        background-color: rgba(rgba(255, 255, 255, 0.788), green, blue, alpha);
         width: 98vw;
         height: 97vh;
         display: inline-flex;
@@ -35,10 +52,12 @@
         background: rgb(0, 0, 0);
         min-width: 300px;
         width: 70%;
-        max-width: 600px;
         padding: 10px;
         color:white;
-        font-size: 150%;
+        font-size:250%;
+       font-family: 'Times New Roman', Times, serif;
+       font-weight: 700;
+
         
       }
   
@@ -58,16 +77,17 @@
       }
   
       .btn {
-        background: rgb(24, 202, 24);
-        width: 60%;
         min-width: 250px;
-        max-width: 550px;
-        padding: 10px;
-        margin: 5px;
-        cursor: pointer;
-        font-size:120%;
-        font-family: 'Times New Roman', Times, serif;
-        font-weight: 700;
+        max-width: 300px;
+        height: 125px;
+        margin: 20px;
+       font-size:250%;
+       font-family: 'Times New Roman', Times, serif;
+       font-weight: 700;
+       background-color: rgb(24, 202, 24);
+      color: rgb(0, 0, 0);
+       cursor: pointer;
+       padding: 10px;
       }
   
       .btn:hover {
@@ -86,8 +106,7 @@
         padding:10px;
         color:white;
       }
-    </style>
-  
+    </style>  
     <div class="contenedor">
       <div class="puntaje" id="puntaje"></div>
       <div class="encabezado">
@@ -102,7 +121,7 @@
 
       </div>
       <div>
-        <button class="btn" onclick="tirarDados()">Ir a lanzar Dados</button>
+        <button class="btn" onclick="tirarDados()">Ir a lanzar dado</button>
       </div>
       
       <script src="prendatres.js"></script>

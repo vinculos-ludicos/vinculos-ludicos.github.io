@@ -1,21 +1,27 @@
 [
     {
         "categoria": "",
-        "pregunta": "dif 2",
+        "pregunta": "El baile congelado:<br><br>Poner una canción y bailar junto con otro jugador, mientras que otro va a controlar la música. Cuando se apague hay que quedarse congelado sin mover un solo dedo. Si ambos lo logran avanzan los dos.<br>1. Haz el reto que le toque al siguiente jugador.<br>2. Imita todo lo que haga y diga el jugador a tu derecha durante dos turnos seguidos.<br>3. Armar una coreografía con otro jugador, con la condición de que en todo momento tienen que estar agarrados de la mano, si se sueltan vuelven a empezar.",
         "respuesta": " ",
         "incorrecta1": "",
         "incorrecta2": "",
         "incorrecta3": "",
-        "imagen": "./1.mp3",
+        "imagen": "",
         "objectFit": "cover"
     },
     
-    
-
+    {
+        "categoria": "",
+        "pregunta": "Convertirse en marioneta:<br><br>Debes dejarte mover durante un minuto por otro jugador. Esa persona te pondrá un nombre y te hará hablar y moverte a su gusto.",
+        "respuesta": " ",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": ""
+    },
 
     {
         "categoria": "",
-        "pregunta": "difi 2",
+        "pregunta": "Canción con palabra obligatoria: <br><br>Cantar una canción que tenga la palabra que te diga el jugador de la derecha.",
         "respuesta": " ",
         "incorrecta1": "",
         "incorrecta2": "",

@@ -47,6 +47,19 @@
   .inicio{
     background-color: rgba(240, 248, 255, 0.822);
   }
+  #inicio{
+    background-color: rgba(240, 248, 255, 0.822);
+    display:flex;
+    justify-content:left;
+    justify-content: left;
+  }
+  #inicio1{
+    background-color: rgba(240, 248, 255, 0.822);
+    display:flex;
+    justify-content:left;
+    justify-content: left;
+    height: 100vh;
+  }
   .btn2
   {
       min-width: 250px;
@@ -68,10 +81,69 @@
       transform: scale(1.05);
     }
 body{
-    background-image: url("./fondos-de-colores-10.jpeg");
+    background-image: url("./fondo.png");
    
 
 
 }
-  
+.video
+{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.164);
+    flex-direction: column;
+}
+.container1
+{
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EAF8FF;
+    flex-direction: column;
+}
+#margenes{
+    margin-top: 9%;
+    background-color: rgba(240, 248, 255, 0.822);
+    height: 12vh;
+    transition: all 0.7s;
+}
+.containertitulo
+{
+    width: 100%;
+    height: 30%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.164);
+    flex-direction: column;
+}
 
+#margenestitulo{
+    margin-top: 3%;
+    background-color: rgba(240, 248, 255, 0.822);
+    height: 12vh;
+    transition: all 0.7s;
+}
+.container img{
+    width: 50%;
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1080px) {
+	.container1
+{
+    width: 20%;
+    height: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+    align-content: center;
+}
+}

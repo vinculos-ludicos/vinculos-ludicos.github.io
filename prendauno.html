@@ -7,6 +7,13 @@
   </head>
   
   <body>
+    <header>
+      <div id="inicio">
+        <a title="Inicio" href="./index.html"><img src="./inicio.png" alt="Salir" width="50vw" /></a>
+        <a title="Inicio" href="./juegouno.html"><img src="./SALIR.png" alt="Inicio" width="50vw" /></a>
+    </div>
+    </header>
+
     <style>
       * {
         transition: all 0.3s;
@@ -19,6 +26,14 @@
         text-align: center;
         font-family: calibri;
         font-size: 120%;
+      }
+      body header div {
+        height: 8vh
+      }
+      body header div img{
+
+        height: 8vh;
+        width: auto;
       }
   
       .contenedor {
@@ -107,7 +122,7 @@
 
       </div>
       <div>
-        <button class="btn" onclick="tirarDados()">Ir a lanzar Dados</button>
+        <button class="btn" onclick="tirarDados()">Ir a lanzar dado</button>
       </div>
       
       <script src="prendauno.js"></script>

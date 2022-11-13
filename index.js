@@ -1,9 +1,6 @@
-function tirardadosuno(){
-        window.location.href="./dificultaduno.html";
-        }
-function tirardadosdos(){
-                window.location.href="./dificultaddos.html";
-                }
-function tirardadostres(){
-            window.location.href="./dificultadtres.html";
-            }        
+function uno(){
+    window.location.href="./juegouno.html";
+    }
+function dos(){
+            window.location.href="./juegodos.html";
+            }
