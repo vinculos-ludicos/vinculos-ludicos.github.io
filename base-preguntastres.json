@@ -793,7 +793,7 @@
 
 {
     "categoria": "",
-    "pregunta": "Decir los nombres de los jugadores, pero sin usar una letra, por ejemplo la "A". Si fallas, te dicen una nueva letra. Termina el desafío cuando lo hagas sin errores.",
+    "pregunta": 'Decir los nombres de los jugadores, pero sin usar una letra, por ejemplo la "A". Si fallas, te dicen una nueva letra. Termina el desafío cuando lo hagas sin errores.',
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
