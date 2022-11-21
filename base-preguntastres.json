@@ -749,7 +749,7 @@
 
 {
     "categoria": "",
-    "pregunta": " Explicar sólo con gestos, cómo se prepara una comida. Ganas si alguno adivina qué estás preparando.",
+    "pregunta": "Explicar sólo con gestos, cómo se prepara una comida. Ganas si alguno adivina qué estás preparando.",
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
@@ -793,7 +793,7 @@
 
 {
     "categoria": "",
-    "pregunta": 'Decir los nombres de los jugadores, pero sin usar una letra, por ejemplo la "A". Si fallas, te dicen una nueva letra. Termina el desafío cuando lo hagas sin errores.',
+    "pregunta": "Decir los nombres de los jugadores, pero sin usar una letra, por ejemplo la -A-. Si fallas, te dicen una nueva letra. Termina el desafío cuando lo hagas sin errores.",
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
