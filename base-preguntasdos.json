@@ -1,30 +1,675 @@
 [
-    {
-        "categoria": "",
-        "pregunta": "El baile congelado:<br><br>Poner una canción y bailar junto con otro jugador, mientras que otro va a controlar la música. Cuando se apague hay que quedarse congelado sin mover un solo dedo. Si ambos lo logran avanzan los dos.<br>1. Haz el reto que le toque al siguiente jugador.<br>2. Imita todo lo que haga y diga el jugador a tu derecha durante dos turnos seguidos.<br>3. Armar una coreografía con otro jugador, con la condición de que en todo momento tienen que estar agarrados de la mano, si se sueltan vuelven a empezar.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },
     
-    {
-        "categoria": "",
-        "pregunta": "Convertirse en marioneta:<br><br>Debes dejarte mover durante un minuto por otro jugador. Esa persona te pondrá un nombre y te hará hablar y moverte a su gusto.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": ""
-    },
+{
+    "categoria": "",
+    "pregunta": "Comodín: podés avanzar y tu próximo desafío pasará al jugador que elijas.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Comodín: podés avanzar y tu próximo desafío pasará al jugador que elijas.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Comodín: podés avanzar y tu próximo desafío pasará al jugador que elijas.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Comodín: Avanzas 3 casilleros más de los que te salieron en el dado y sin cumplir desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Comodín: Avanzas 3 casilleros más de los que te salieron en el dado y sin cumplir desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Comodín: Avanzas 3 casilleros más de los que te salieron en el dado y sin cumplir desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Reto doble: ir otra vez al botón desafío y cumplir lo que salga 2 veces.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Reto doble: ir otra vez al botón desafío y cumplir lo que salga 2 veces.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Reto doble: ir otra vez al botón desafío y cumplir lo que salga 2 veces.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Doble turno, tirá el dado dos veces, avanzando sin cumplir desafíos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Doble turno, tirá el dado dos veces, avanzando sin cumplir desafíos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Doble turno, tirá el dado dos veces, avanzando sin cumplir desafíos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Tenés suerte, podés avanzar sin cumplir ningún desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Tenés suerte, podés avanzar sin cumplir ningún desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Tenés suerte, podés avanzar sin cumplir ningún desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
 
-    {
-        "categoria": "",
-        "pregunta": "Canción con palabra obligatoria: <br><br>Cantar una canción que tenga la palabra que te diga el jugador de la derecha.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": ""
-    }
+{
+    "categoria": "",
+    "pregunta": "Perdés el turno, te quedás en el lugar.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Perdés el turno, te quedás en el lugar.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Perdés el turno, te quedás en el lugar.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Hacer un baile de TikTok de pocos segundos con otro jugador y grabarse.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Hacer un baile con otro jugador donde solo tengan que mover los brazos, el resto del cuerpo se queda quieto.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Trabalenguas: Salas sala su salsa con sal de Sales. Si salas la salsa de Salas, Salas saldrá salado.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Trabalenguas: La bruja piruja prepara un brebaje con cera de abejas, dos dientes de ajo,cuatro lentejas y pelos de pura oveja.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Tenés 10 segundos para encontrar algo en la habitación y usarlo como sombrero.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Saltar como canguro alrededor de la ronda.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Los demás jugadores te dan un objeto y tenés que inventar un anuncio resaltando sus cualidades.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Coloca un objeto en tu cabeza y camina sin que se caiga.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Saltar con dos pies al mismo tiempo avanzando 10 pasos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Dile una frase cariñosa a un jugador que elijas, por ejemplo puede ser lo que más te guste de esa persona. ",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Sacarse una selfie con cara de felicidad y mostrarla al grupo.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Dar 10 saltos con un pie levantando los brazos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Los demás jugadores eligen 1 canción y la van a tararear para que la adivines. Podés pedir pistas..",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cada uno de los jugadores te nombrará un ruido desagradable, por ejemplo, un pedo, eructo, ronquidos. Debes realizar ese ruido de la manera más convincente.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Inventar un baile de 20 segundos con otro de los jugadores.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Decir un trabalenguas: Erre con erre guitarra, erre con erre barril, qué rápido ruedan las ruedas del ferrocarril.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Decir un trabalenguas: Yo no quiero que me quieras porque yo te quiero a ti. Queriéndome o sin quererme, yo te quiero porque sí.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Decir un trabalenguas: Te quiero porque me quieres, ¿quieres que te quiera más? Te quiero más que me quieres, ¿qué más quieres? ¿quieres más?",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Debes componer una rima corta, usando la palabra que te digan los demás jugadores.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Lo lee otro jugador. Adivinanza: Tengo agujas pero no sé coser, tengo números pero no sé leer, las horas te doy, ¿Sabes quién soy? (reloj)",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Lo lee otro jugador. Adivinanza: Buenas y sonoras cuerdas tengo; cuando me rascan, a la gente entretengo. (guitarra)",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Lo lee otro jugador. Adivinanza: Abierta siempre estoy para todos los niños. Cerrada y sola me quedo los sábados y domingos. (escuela)",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Otro jugador elige tu desafío, puede ser uno que ya haya salido.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Hacer un baile de TikTok con otro jugador.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Girar en el lugar 5 veces y caminar en línea recta.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Hacer el número 4 humano por 15 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Buscar un objeto que empiece con la letra C en 20 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Buscar un objeto que empiece con la letra M en 20 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Decir palabras que empiecen con la letra A durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Decir palabras que empiecen con la letra S durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Decir palabras que empiecen con la letra T durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Mirarse a los ojos con otro jugador sin pestañear, si pestañeas primero perdés.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Sacarse una foto imitando una emoción que te diga otro jugador y mostrarla al grupo.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Elegí para hacer cualquier desafío que haya salido antes.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Sacarse una foto graciosa con el celular y mostrársela a los demás.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Hacé lo que te diga el jugador a tu derecha por 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Hacé lo que te diga el jugador a tu izquierda por 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Imita todo lo que haga y diga el jugador a tu izquierda durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Imita todo lo que haga y diga el jugador a tu derecha durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Elegir a un jugador y jugar al piedra, papel o tijera (4 veces) y ganar 3.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Jugar a ser desconocidos: hablar con otro jugador como si no se conocieran, por 1 minuto.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Armar una coreografía con otro jugador, con la condición de que en todo momento tienen que estar agarrados de la mano, si se sueltan vuelven a empezar. Tienen 3 oportunidades.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Imita todo lo que haga y diga el jugador a tu derecha durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Haz el reto que le toque al siguiente jugador.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Cantar una canción que tenga la palabra que te diga el jugador de la derecha.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Debes dejarte mover durante un minuto por otro jugador. Esa persona te pondrá un nombre y te hará hablar y moverte a su gusto.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Poner una canción y bailar junto con otro jugador, mientras que otro va a controlar la música. Cuando se detiene hay que quedarse congelado. Si ambos lo logran avanzan los dos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+}
 ]
