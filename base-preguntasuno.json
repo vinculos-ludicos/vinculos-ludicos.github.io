@@ -1,380 +1,58 @@
 [
-    {
-        "categoria": "",
-        "pregunta": "Cuenta regresiva: <br> <br> Decir al revés los números del 20 al 1",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },
-        
-    {
-        "categoria": "",
-        "pregunta": " Sonríe:<br><br>Mantén una sonrisa en tu rostro durante 3 minutos seguidos.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Frutas alfabéticas:<br><br>Usando las letras del abecedario, en orden, debes nombrar frutas que empiecen con cada una de esas letras. Se puede saltar sólo 5 letras de las más difíciles, elegí cuáles. Tiempo límite: 2 minutos.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": "Colores alfabéticos:<br><br>Usando las letras del abecedario, en orden, debes nombrar un color que empiece con cada una de esas letras. Se puede saltar sólo 5 letras de las más difíciles, elegí cuáles. Tiempo límite: 2 minutos.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Equilibrio sobre puntas de pies:<br><br>Pararse sobre la punta de un pie y sostenerse, mientras los demás cuentan del 1 al 10.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Avance complicado:<br><br>Agacharse y cruzar las manos sobre las rodillas. Tomar la rodilla derecha con la mano izquierda y avanzar agachado 10 pasos. Si te caes, se reinicia.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": "  Reto de atención y discriminación auditiva:<br><br>Taparse los ojos con las manos e identificar quién es el que te está hablando. Los demás jugadores pueden cambiarse de lugar y cambiar su voz para confundirte. Ganas si adivinas a todos.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Prueba de conocimientos:<br><br>Los demás jugadores te entregan un objeto cualquiera, debes hablar lo que se te ocurra de ese objeto durante 1 minuto sin parar. Podes inventar si no sabes.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Cuenta-cuentos:<br><br>Contar un cuento que sepas o inventar uno. Debe durar al menos 2 minutos. Los personajes pueden ser los demás jugadores.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": "Improvisación:<br><br>Cantar una canción, nombrando a todos los jugadores.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Cambiar una canción al cantar:<br><br>Cantar 20 segundos de una canción, cambiando la letra.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Moverse mirando hacia arriba, con dificultad adicional:<br><br>Dar una vuelta por la sala mirando hacia arriba, contando, con las manos tocándote la nariz y una oreja.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Escribir en el aire:<br><br>Escribir en el aire una palabra, por ejemplo tu nombre, haciendo movimientos con la mano. Si alguien adivina la palabra, ganas el desafío.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Risa fingida:<br><br>Fingir la risa durante un minuto, cuando el tiempo termine, quedarse totalmente serio. Si te da risa, perdés el desafío.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": ""
-    },    
-    {
-        "categoria": "",
-        "pregunta": " Explicar preparación con gestos:<br><br>Explicar sólo con gestos, cómo se prepara una comida, como una hamburguesa o una pizza. Ganas si alguno de los jugadores adivina qué comida estás preparado.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },    
+{
+    "categoria": "",
+    "pregunta": "Reto doble: ir otra vez al botón desafío y cumplir lo que salga 2 veces.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Reto doble: ir otra vez al botón desafío y cumplir lo que salga 2 veces.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Reto doble: ir otra vez al botón desafío y cumplir lo que salga 2 veces.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
     
-    {
-        "categoria": "",
-        "pregunta": " Convertirse en espejo:<br><br>Imitar los movimientos de los otros jugadores por 20 segundos.",
-        "respuesta": " ",
-        "incorrecta1": "",
-        "incorrecta2": "",
-        "incorrecta3": "",
-        "imagen": "",
-        "objectFit": "cover"
-    },   
-      
- {
-    "categoria": "",
-    "pregunta": " Ballet:<br><br>Hacer una demostración de ballet, con fondo musical incluido durante 1 minuto.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
 {
     "categoria": "",
-    "pregunta": " Tiernos bebés:<br><br>Gatear como bebé y dar una vuelta por la sala.",
+    "pregunta": "Doble turno, tirá el dado dos veces, avanzando sin cumplir desafíos.",
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
     "incorrecta3": "",
     "imagen": "",
     "objectFit": "cover"
-},    
+},
 {
     "categoria": "",
-    "pregunta": " Letra prohibida:<br><br>Decir los nombres de los jugadores, pero sin usar una letra, por ejemplo la (A). Si fallas, te dicen una nueva letra. Termina el desafío cuando lo hagas sin errores.",
+    "pregunta": "Doble turno, tirá el dado dos veces, avanzando sin cumplir desafíos.",
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
     "incorrecta3": "",
     "imagen": "",
     "objectFit": "cover"
-},    
+},
 {
     "categoria": "",
-    "pregunta": " Enredo con las manos:<br><br>Con una mano rascarse la cabeza y con la otra frotarse la panza, rápido, sin equivocarse. Tenés tres intentos.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Gallina cocinera:<br><br>Como si fueras una gallina, con cacareos y moviendo las alas, explicar una receta sencilla, por ejemplo: preparar un huevo o hacer una tortilla.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Saltos complicados:<br><br>Agarrarse un pie con la mano y dar saltos alrededor de la sala, hasta dar una vuelta entera.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Risa contagiosa:<br><br>Empezá a reírte hasta contagiar de la risa al menos a un jugador.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Bostezos contagiosos:<br><br>Bostezar y estirarse por un minuto o hasta que otra persona se contagie de los bostezos.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Saltar con un objeto entre las rodillas:<br><br>Saltar con un almohadón entre las rodillas por 30 segundos, si se cae se debe empezar a contar desde cero.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Bote a la deriva:<br><br>El jugador debe conseguir simular estar en un bote, se impulsa con las manos y da un recorrido corto.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Silbidos:<br><br>Silbar una canción, los demás deberán adivinar cuál es. Se gana si al menos uno la adivina.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-
- 
- {
-    "categoria": "",
-    "pregunta": " Buena memoria auditiva:<br><br>Cada jugador te dice una palabra, debes tratar de recordar todas las palabras, o al menos fallar solo en unas pocas. Si son pocos los jugadores, cada uno te dice dos palabras.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": "Derroche de cariño:<br><br>Dile una frase cariñosa a un jugador que elijas, por ejemplo puede ser lo que más te guste de esa persona.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Llegó el Cantante:<br><br>Por toda una ronda, sólo podés decir lo que quieras cantando, siempre y solamente comunicarse cantando.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": "Adivinar el tarareo:<br><br>Los demás jugadores eligen 2 canciones y las van a tararear para que las adivines. Es necesario descubrir cada canción, así sea pidiendo pistas al resto de jugadores.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": "Ruidos desagradables:<br><br>Cada uno de los jugadores te nombrará un ruido desagradable, por ejemplo, un pedo, eructo, ronquidos… Debes realizar ese ruido de la manera más convincente.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": " Coreografía creativa:<br><br>Inventarse un baile de 20 segundos con una canción que te guste y enseñarlo al grupo.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": "Tenés 3 oportunidades para decir correctamente este trabalenguas:<br><br>-A Cuesta le cuesta subir la cuesta. Y en medio de la cuesta, Cuesta va ¡y se acuesta!",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": "Tenés 3 oportunidades para decir correctamente este trabalenguas:<br><br>-Eugenio es muy ingenuo, pero ¡qué mal genio tiene el ingenuo de Eugenio!",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": "Tenés 3 oportunidades para decir correctamente este trabalenguas:<br><br>-Pancha plancha con cuatro planchas, con cuántas planchas plancha Pancha?",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": "Tenés 3 oportunidades para decir correctamente este trabalenguas:<br><br>-Tres tristes tigres, tragaban trigo en un trigal",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},    
-{
-    "categoria": "",
-    "pregunta": "Convertirse en una muñeca y actuar como una: <br><br>Te convertiste en una muñeca, tenés que actuar como una durante 15 segundos.",
+    "pregunta": "Doble turno, tirá el dado dos veces, avanzando sin cumplir desafíos.",
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
@@ -383,14 +61,485 @@
     "objectFit": "cover"
 },
 
- {
+{
     "categoria": "",
-    "pregunta": "Rimas a la carrera: <br><br>Debes componer una rima corta, usando la palabra que te digan los demás jugadores. Ejemplo: camisa, zapato.",
+    "pregunta": "Tenés suerte, podés avanzar sin cumplir ningún desafío.",
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
-    "incorrecta3": ""
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Tenés suerte, podés avanzar sin cumplir ningún desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Tenés suerte, podés avanzar sin cumplir ningún desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Perdés el turno, te quedás en el lugar.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Perdés el turno, te quedás en el lugar.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Perdés el turno, te quedás en el lugar.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Inventá nuevos pasos de baile para la canción “dale a tu cuerpo alegría Macarena…”.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": " Hacer equilibrio en un pie durante 15 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": " Hacer un baile en cámara rápida por 20 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": " Hacer un baile en cámara lenta por 40 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Lo lee otro jugador. Adivinanza: en el cielo estoy, cuando llueve y sale el sol, todos los colores los tengo yo. (arcoiris)",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Hacer un baile de TikTok.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Elegí para hacer cualquier desafío que haya salido antes.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Comodín: Avanzas 3 casilleros más de los que te salieron en el dado y sin cumplir desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Comodín: Avanzas 3 casilleros más de los que te salieron en el dado y sin cumplir desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Comodín: Avanzas 3 casilleros más de los que te salieron en el dado y sin cumplir desafío.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Dile una frase cariñosa a un jugador que elijas, por ejemplo puede ser lo que más te guste de esa persona.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": " Cerrá los ojos, girá 3 veces en el lugar, y tratá de encontrar a un jugador. Cuando lo encuentres dale un abrazo.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": " Tapate los oídos e intentá adivinar lo que te diga otro jugador. Tenés 3 oportunidades.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": " Dejate peinar por otro de los jugadores.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Los demás jugadores te hacen preguntas durante 1 minuto y debes contestar sin decir “Sí” y “No”.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Comodín: podés avanzar y tu próximo desafío pasará al jugador que elijas.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Comodín: podés avanzar y tu próximo desafío pasará al jugador que elijas.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": " Comodín: podés avanzar y tu próximo desafío pasará al jugador que elijas.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": " Nombra un objeto que empiece con la primera letra de tu nombre.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Otro jugador elige tu desafío, puede ser uno que ya haya salido.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Hacer un baile de TikTok con todos los jugadores.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+     
+{
+    "categoria": "",
+    "pregunta": "Buscar un objeto que empiece con la letra B en 20 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Buscar un objeto que empiece con la letra A en 20 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Decir palabras que empiecen con la letra L durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Decir palabras que empiecen con la letra F durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Decir palabras que empiecen con la letra C durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+    
+{
+    "categoria": "",
+    "pregunta": "Los demás jugadores tratarán de hacerte reír por 15 segundos. Si lográs no reirte, ganás.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+ 
+  {
+    "categoria": "",
+    "pregunta": "Decir palabras que empiecen con la letra C durante 30 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "El grupo elige una canción y debés bailarla por 20 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Elegí para hacer cualquier desafío que haya salido antes.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Decir un trabalenguas: ¿Por qué a la cama se llama cama, y a la cómoda cómoda, siendo la cómoda menos cómoda que la cama, y la cama más cómoda que la cómoda?",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Decir un trabalenguas: Nadie pica piedra como Pedropicapiedra. Porque si alguien pica piedra como Pedropicapiedra es porque Pedropicaoiedra le enseñó a picar piedra.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Decir un trabalenguas: Juan tuvo un tubo, y el tubo que tuvo se le rompió. Y, para recuperar el tubo que tuvo, tuvo que comprar un tubo igual.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Lo lee otro jugador. Adivinanza: Es alargada y naranja, se la comen los conejos para así llegar a viejos. (zanahoria)",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Lo lee otro jugador. Adivinanza: En rincones y entre ramas mis redes voy construyendo, para que moscas en ellas vayan cayendo. (araña)",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Lo lee otro jugador. Adivinanza: Blanco es, la gallina lo pone, con aceite se fríe y con pan se come. (huevo)",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cantar una canción por 15 segundos.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Los demás jugadores hacen una cara y vos debés imitarlas.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
+},
+    
+{
+    "categoria": "",
+    "pregunta": "Sacarse una selfie con todos los jugadores.",
+    "respuesta": " ",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
+    "imagen": "",
+    "objectFit": "cover"
 }
+
 
 
 ]
