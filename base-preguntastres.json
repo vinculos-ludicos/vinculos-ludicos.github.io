@@ -263,16 +263,6 @@
     "objectFit": "cover"
 },
 
-{
-    "categoria": "",
-    "pregunta": "",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},
 
 {
     "categoria": "",
@@ -848,7 +838,7 @@
 
 {
     "categoria": "",
-    "pregunta": " Bostezar y estirarse por unos 30 segundos, o hasta que otro jugador se contagie de los bostezos.",
+    "pregunta": "Bostezar y estirarse por unos 30 segundos, o hasta que otro jugador se contagie de los bostezos.",
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
@@ -925,7 +915,7 @@
 
 {
     "categoria": "",
-    "pregunta": " Los demás jugadores eligen 1 canción y la van a tararear para que la adivines. Podés pedir pistas.",
+    "pregunta": "Los demás jugadores eligen 1 canción y la van a tararear para que la adivines. Podés pedir pistas.",
     "respuesta": " ",
     "incorrecta1": "",
     "incorrecta2": "",
