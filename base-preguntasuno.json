@@ -188,17 +188,7 @@
     "imagen": "",
     "objectFit": "cover"
 },
-{
-    "categoria": "",
-    "pregunta": "Elegí para hacer cualquier desafío que haya salido antes.",
-    "respuesta": " ",
-    "incorrecta1": "",
-    "incorrecta2": "",
-    "incorrecta3": "",
-    "imagen": "",
-    "objectFit": "cover"
-},
-    
+   
 {
     "categoria": "",
     "pregunta": "Comodín: Avanzas 3 casilleros más de los que te salieron en el dado y sin cumplir desafío.",
